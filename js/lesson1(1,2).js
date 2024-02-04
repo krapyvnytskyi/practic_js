@@ -65,3 +65,37 @@
     
 // } 
 
+// TODO: № 8  =========================================================
+// Напишіть if..else, що відповідає наступному switch:
+
+
+// const browser = "Opera"
+// switch (browser) {
+//   case 'Edge':
+//     alert( "You've got the Edge!" );
+//     break;
+
+//   case 'Chrome':
+//   case 'Firefox':
+//   case 'Safari':
+//   case 'Opera':
+//     alert( 'Okay we support these browsers too' );
+//     break;
+
+//   default:
+    
+// }
+
+// if (browser === "Edge") {
+//     alert( "You've got the Edge!" );
+// } else if (browser === "Chrome"  || browser === "Firefox" || browser === "Safari" || browser === "Opera") {
+//     alert( 'Okay we support these browsers too' );
+// } else {
+//     alert( 'We hope you didn`t pick edge ))))!' );
+// }
+
+
+// TODO: № 7 на for =====================================================
+//Напишіть цикл, який виводить у консоль
+// числа від max до min за спаданням
+// Додайте усі парні числа від min до max
