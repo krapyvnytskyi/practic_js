@@ -50,3 +50,18 @@
 //         result = "Щооо?";
 // }
 // console.log(result);
+// TODO: № 6 на for ===================================
+// За допомогою циклу for додайте всі парні числа від min до max
+// const min = 0;
+// const max = 20;
+// let sum = 0;
+
+// for (let i = min; i < max; i += 1) {
+//     if (i % 2 !== 0) {
+//         continue;
+//     } 
+
+//     sum += i;
+    
+// } 
+
