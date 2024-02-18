@@ -25,8 +25,6 @@
 
 // console.log(findSmallerNumber(numbers));//1
 
-
-
 //TODO: № 2 =============================================================
 //Напишіть функцію caclculateAverage()
 //яка приймає довільну кількість
@@ -56,3 +54,16 @@ function caclculateAverage(...args) {
 
 console.log(caclculateAverage(1, 'fttjfghgy', 1, 2, 20, 'fhth', 'dgfhgyjgy'));
 */
+//TODO: № 3 ==============================================================
+// напиши функцію яка сумуватиме сусідні числа і пушити в новий масив
+// const someArr = [22, 11, 34, 5, 12, 13, 14, 15, 18];
+
+// function sumNumder(some) {
+//   const newArr = [];
+//   for (let i = 0; i < some.length - 1; i += 1) {
+//     newArr.push(some[i] + some[i + 1]);
+//   }
+
+//   return newArr;
+// }
+// console.log(sumNumder(someArr));
