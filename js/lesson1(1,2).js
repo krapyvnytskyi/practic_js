@@ -101,6 +101,7 @@
 // числа від max до min за спаданням
 // Додайте усі парні числа від min до max
 
+
 // function showNumbers(min, max){
 //     for(let i = max; i >= min; i-= 1){
 //         if(i % 2 ===0){
